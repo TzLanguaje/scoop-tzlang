@@ -20,15 +20,15 @@
     "las versiones nuevas sin editar el manifiesto a mano."
   ],
 
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "Lenguaje de programacion educativo con sintaxis en espanol",
   "homepage": "https://github.com/TzLanguaje/TzLanguaje",
   "license": "MIT",
 
   "architecture": {
     "64bit": {
-      "url": "https://github.com/TzLanguaje/TzLanguaje/releases/download/v0.4.3/tzlang-v0.4.3-windows-x86_64.zip",
-      "hash": "b7b55672a0f8830a0b508e04e8e1f38d6f8641f503ea78516765966dd4fc1911"
+      "url": "https://github.com/TzLanguaje/TzLanguaje/releases/download/v0.4.4/tzlang-v0.4.4-windows-x86_64.zip",
+      "hash": "7443363cfd55db84bb2ac180ffa4f361025f4c9fb5d82418f491c48d22016f75"
     }
   },
 
